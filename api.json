@@ -77,7 +77,7 @@
 
    {
     "src":".env",
-    "txt":"https://raw.githubusercontent.com/mostafaaamen/create-azmos-express-api/refs/heads/main/dotenv"
+    "txt":"https://raw.githubusercontent.com/mostafaaamen/create-azmos-express-api/refs/heads/main/index.js"
   }
 
 
