@@ -1,11 +1,88 @@
 [
   {
-    src:"index.js",
-    txt:"https://github.com/create-azmos-express/js/index.js"
+    "src":"index.js",
+    "txt":""
   },
+
+
   {
-    src:"/Routes",
-    txt:"https://github.com/create-azmos-express/js/Routes/index.js"
+    "src":"/Routes/user.routes.js",
+    "txt":""
+  },
+    {
+    "src":"/Routes/courses.routes.js",
+    "txt":""
+  },
+
+
+   {
+    "src":"/Models/user.model.js",
+    "txt":""
+  },
+    {
+    "src":"/Models/courses.model.js",
+    "txt":""
+  },
+
+
+   {
+    "src":"/middleware/allowTo.js",
+    "txt":""
+  },
+
+    {
+    "src":"/middleware/asyncWrapper.js",
+    "txt":""
+  }, 
+  
+  {
+    "src":"/middleware/validationsCourses.js",
+    "txt":""
+  },  {
+    "src":"/middleware/validationsUsers.js",
+    "txt":""
+  },  {
+    "src":"/middleware/verfiyToken.js",
+    "txt":""
+  },
+
+
+   {
+    "src":"/controllers/courses.controller.js",
+    "txt":""
+  },
+     {
+    "src":"/controllers/users.controller.js",
+    "txt":""
+  },
+
+
+
+
+
+  {
+   "src":"/Utils/appError.js",
+   "txt":""
+ },
+  {
+   "src":"/Utils/jwtToken.js",
+   "txt":""
+ },
+   {
+   "src":"/Utils/user.rolers.js",
+   "txt":""
+ },
+  
+  {
+    "src":"/Utils/httpStatusText.js",
+    "txt":""
+  },
+
+   {
+    "src":".env",
+    "txt":""
   }
+
+
   
 ]
