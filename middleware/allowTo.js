@@ -1,4 +1,4 @@
-import appError from "../utils/appError.js"
+import appError from "../Utils/appError.js"
 export const allowTo = (...roles) => {
     console.log("roles", roles)
     return (req, res, next) => {
