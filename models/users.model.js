@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 import validator from 'validator';
-import { userRoles } from "../utils/user.rolers.js"
+import { userRoles } from "../Utils/user.rolers.js"
 const userSchema = new mongoose.Schema({
     firstName: {
         type: String,
