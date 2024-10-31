@@ -49,11 +49,11 @@
 
    {
     "src":"/Controllers/courses.controller.js",
-    "txt":"https://raw.githubusercontent.com/mostafaaamen/create-azmos-express-api/refs/heads/main/controllers/courses.controller.js"
+    "txt":"https://raw.githubusercontent.com/mostafaaamen/create-azmos-express-api/refs/heads/main/Controllers/courses.controller.js"
   },
      {
     "src":"/Controllers/users.controller.js",
-    "txt":"https://raw.githubusercontent.com/mostafaaamen/create-azmos-express-api/refs/heads/main/controllers/users.controller.js"
+    "txt":"https://raw.githubusercontent.com/mostafaaamen/create-azmos-express-api/refs/heads/main/Controllers/users.controller.js"
   },
 
 
