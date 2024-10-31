@@ -1,6 +1,6 @@
 import jwt from "jsonwebtoken"
-import appError from "../utils/appError.js"
-import httpStatusText from "../utils/httpStatusText.js"
+import appError from "../Utils/appError.js"
+import httpStatusText from "../Utils/httpStatusText.js"
 
 
 export const verfiyToken = (req, res, next) => {
