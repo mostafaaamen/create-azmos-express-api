@@ -16,7 +16,7 @@
 
 
    {
-    "src":"/Models/user.model.js",
+    "src":"/Models/users.model.js",
     "txt":"https://raw.githubusercontent.com/mostafaaamen/create-azmos-express-api/refs/heads/main/models/users.model.js"
   },
     {
@@ -26,33 +26,33 @@
 
 
    {
-    "src":"/middleware/allowTo.js",
+    "src":"/Middleware/allowTo.js",
     "txt":"https://raw.githubusercontent.com/mostafaaamen/create-azmos-express-api/refs/heads/main/middleware/allowTo.js"
   },
 
     {
-    "src":"/middleware/asyncWrapper.js",
+    "src":"/Middleware/asyncWrapper.js",
     "txt":"https://raw.githubusercontent.com/mostafaaamen/create-azmos-express-api/refs/heads/main/middleware/asyncWrapper.js"
   }, 
   
   {
-    "src":"/middleware/validationsCourses.js",
+    "src":"/Middleware/validationsCourses.js",
     "txt":"https://raw.githubusercontent.com/mostafaaamen/create-azmos-express-api/refs/heads/main/middleware/validationsCourses.js"
   },  {
-    "src":"/middleware/validationsUsers.js",
+    "src":"/Middleware/validationsUsers.js",
     "txt":"https://raw.githubusercontent.com/mostafaaamen/create-azmos-express-api/refs/heads/main/middleware/validationsUsers.js"
   },  {
-    "src":"/middleware/verfiyToken.js",
+    "src":"/Middleware/verfiyToken.js",
     "txt":"https://raw.githubusercontent.com/mostafaaamen/create-azmos-express-api/refs/heads/main/middleware/verfiyToken.js"
   },
 
 
    {
-    "src":"/controllers/courses.controller.js",
+    "src":"/Controllers/courses.controller.js",
     "txt":"https://raw.githubusercontent.com/mostafaaamen/create-azmos-express-api/refs/heads/main/controllers/courses.controller.js"
   },
      {
-    "src":"/controllers/users.controller.js",
+    "src":"/Controllers/users.controller.js",
     "txt":"https://raw.githubusercontent.com/mostafaaamen/create-azmos-express-api/refs/heads/main/controllers/users.controller.js"
   },
 
