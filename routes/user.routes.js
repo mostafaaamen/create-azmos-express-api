@@ -1,7 +1,7 @@
 import { Router } from "express"
-import usersContrallers from "../controllers/users.controller.js"
-import { validationUserSchema } from "../middleware/validationsUsers.js"
-import { verfiyToken } from "../middleware/verfiyToken.js"
+import usersContrallers from "../Controllers/users.controller.js"
+import { validationUserSchema } from "../Middleware/validationsUsers.js"
+import { verfiyToken } from "../Middleware/verfiyToken.js"
 const router = Router()
 
 
